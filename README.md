@@ -50,17 +50,6 @@ This project emphasizes **UI design, interactivity, and user engagement** using 
 
 ---
 
-## ⚙️ Getting Started
 
-### 🔹 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/MOVIE_PROJECT.git
-
-### 🔹 2. Navigate to the Project Folder
-```bash
-cd MOVIE_PROJECT-main
-
-###🔹 3. Run the Project
-```bash
 Simply open the index.html file in any web browser:
 open index.html
